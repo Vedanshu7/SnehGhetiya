@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Sneh, react developer 👨‍💻 working remotely since 2020. 🚀</div>  
+### <div align="center">I'm Sneh, Web Developer 👨‍💻 working remotely since 2020. 🚀</div>  
   
 
 - 🔭 I’m currently working on designing websites with UI/UX.  
