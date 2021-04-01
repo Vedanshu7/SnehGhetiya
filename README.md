@@ -1,4 +1,4 @@
-### Hi, I'm Anonymous <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<img src="https://github.com/SnehGhetiya/SnehGhetiya/blob/master/header.png" alt="This is my repo.">
 [![Website](https://img.shields.io/badge/Text-Text-green?style=flat-square)](https://google.com)
 ## Your short description
 - 🔭 I’m currently working on - ❔❔❔❔
